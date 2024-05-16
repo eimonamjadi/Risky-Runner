@@ -92,7 +92,7 @@ Requirements
 
 Playing the Game
 
-1.Visit: https://play.unity.com/mg/other/webgl-builds-386565
+1.  Visit: https://play.unity.com/mg/other/webgl-builds-386565
 
 2.  For data analysis, access the provided Google Colab notebook and follow the instructions to run the Python code.
 
