@@ -92,7 +92,7 @@ Requirements
 
 Playing the Game
 
-1.  Visit: [https://play.unity.com/mg/other/webgl-builds-386565](https://play.unity.com/en/games/67878a32-e285-457a-946d-408f159927b1/webgl-builds)
+1.  Visit: https://play.unity.com/en/games/45b18b84-6575-4f00-88ee-6fc92967dc84/risky-runner-1
 
 2.  For data analysis, access the provided Google Colab notebook and follow the instructions to run the Python code.
 
